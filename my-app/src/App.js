@@ -164,7 +164,7 @@ getComponent = (name) =>{
       
   }
 
-  return <h1>Nothing to show</h1>
+  return <Spin size="large" />
  
  }
 }
